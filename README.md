@@ -35,4 +35,4 @@ https://public.tableau.com/app/profile/yaritza.colon/viz/bikesharedata_165862192
 https://public.tableau.com/app/profile/yaritza.colon
 
 https://public.tableau.com/views/NYCCitiBikedata/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/shared/P35WCYK3K?:display_count=n&:origin=viz_share_link
+[Tableau Dashboard].https://public.tableau.com/shared/P35WCYK3K?:display_count=n&:origin=viz_share_link
