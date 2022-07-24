@@ -10,7 +10,7 @@ bike sharing in the city
 
 ### Summary
 
-#### Dashboard
+#### Tableau Dashboard
 https://public.tableau.com/app/profile/yaritza.colon/viz/NYCCitiBikedata/NYCStory
 https://public.tableau.com/app/profile/yaritza.colon/viz/bikesharedata_16586219261450/NYCStory
 https://public.tableau.com/app/profile/yaritza.colon
