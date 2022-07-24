@@ -25,6 +25,11 @@ The purpose of this analysis is to determine if having a bikeshare system in Des
 
 ## Summary
 
+In conclusion with this analysis, seems like the male gender uses the bikeshare more often. Also, showing the peak hours in the evenings during the week are also the times where bikeshare is being used more frequently.
+
+I think if we have more information on the ages, we can have a better analysis to be able to grab the consumers attention. We can group them and set up advertisements that interests that age group in order to promote the bikeshare.
+
+
 
 ### Tableau Dashboard
 
@@ -35,4 +40,5 @@ https://public.tableau.com/app/profile/yaritza.colon/viz/bikesharedata_165862192
 https://public.tableau.com/app/profile/yaritza.colon
 
 https://public.tableau.com/views/NYCCitiBikedata/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link
-[Tableau Dashboard].https://public.tableau.com/shared/P35WCYK3K?:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/shared/P35WCYK3K?:display_count=n&:origin=viz_share_link
